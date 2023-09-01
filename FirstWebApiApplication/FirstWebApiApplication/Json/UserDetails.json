@@ -1,0 +1,28 @@
+[
+  {
+    "Id": 0,
+    "UserId": 0,
+    "FirstName": "kabita",
+    "LastName": "kumari",
+    "Gender": null,
+    "Email": null,
+    "Specilization": null,
+    "IsEmployee": true,
+    "Address": "jsr",
+    "IsActive": true,
+    "Role": null
+  },
+  {
+    "Id": 0,
+    "UserId": 1,
+    "FirstName": "debanjana",
+    "LastName": "shit",
+    "Gender": "female",
+    "Email": "user@example.com",
+    "Specilization": "chem",
+    "IsEmployee": true,
+    "Address": "bakura",
+    "IsActive": true,
+    "Role": null
+  }
+]
